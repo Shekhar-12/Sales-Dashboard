@@ -38,7 +38,7 @@ This project is a dynamic **Sales Dashboard** built using **Power BI** to analyz
 
 ## 🖼️ Dashboard Preview
 
-![Sales Dashboard Preview](https://github.com/Shekhar-12/Sales-Dashboard/blob/main/Sales%20Dashbo))
+![Sales Dashboard Preview](https://github.com/Shekhar-12/Sales-Dashboard/blob/main/Sales%20Dashboard.png))
 
 ---
 
